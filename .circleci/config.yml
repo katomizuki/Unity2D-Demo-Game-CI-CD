@@ -2,7 +2,6 @@ version: 2.1
 
 orbs:
   unity: game-ci/unity@1.4.0
-
 workflows:
   build-unity-project:
     jobs:
